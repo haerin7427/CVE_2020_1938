@@ -19,3 +19,8 @@ Tomcat has an HTTP Connector that uses port 8080 and AJP Connector that uses por
 
 ![image](https://user-images.githubusercontent.com/43716537/126739215-3e35d87b-00a5-4ca0-adca-e603403e903e.png)
 
+
+### Explanation
+https://study-ce.tistory.com/69
+
+
