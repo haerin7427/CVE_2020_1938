@@ -17,6 +17,8 @@
         String user = multi.getParameter("user");
         String title = multi.getParameter("title");
         
+        
+        out.println("saveFolder: " + saveFolder + "<br/>");
         out.println("user: " + user + "<br/>");
         out.println("title: " + title + "<br/>");
         out.println("<hr>");
