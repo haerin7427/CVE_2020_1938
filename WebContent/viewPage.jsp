@@ -4,8 +4,8 @@
 <%@page import="java.util.*,java.io.*"%>
 <%
    
-   	String saveFolder = application.getRealPath("/filestorage") ;
-   	/* String saveFolder ="/Users/haelingim/Documents/hotel"; */
+   	/* String saveFolder = application.getRealPath("/filestorage") ; */
+   	String saveFolder ="C:/apache-tomcat-8.5.50/webapps/ROOT/file";
    	
     String encType = "EUC-KR";
     int maxSize = 5 * 1024 * 1024;
