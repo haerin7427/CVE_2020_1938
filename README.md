@@ -13,7 +13,7 @@ Tomcat has an HTTP Connector that uses port 8080 and AJP Connector that uses por
 ### Install
 1. Downlaod the source code
 2. Add file.jsp & viewPage.jsp to  apache-tomcat-8.5.50/webapps/ROOT
-3. Add cos.jar to apache-tomcat-8.5.50/lib  (http://www.servlets.com/cos/)
+3. Add CVE_2020_1938/WebContent/WEB-INF/lib/cos.jar to apache-tomcat-8.5.50/lib  
 4. Create a folder called file in apache-tomcat-8.5.50/webapps/ROOT
 5. Go to http://127.0.0.1:8080/file.jsp
 
