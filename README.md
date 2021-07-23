@@ -1,7 +1,7 @@
 # CVE_2020_1938
 
 This project is for vulnerability practice using cve-2020-1938
-<br/><br/><br/><br/>
+<br/><br/>
 ### Description
 CVE-2020-1938 is an Apache Tomcat vulnerability called Ghostcat
 Tomcat has an HTTP Connector that uses port 8080 and AJP Connector that uses port 8009. Http connector provides http web service and AJP is used for data exchange. Therefore, the ajp connector is activated by default as port 8009. At this time, the attacker can access the files in the server by using the AJP bug.
